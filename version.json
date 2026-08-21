@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/AAhmed-Tzd/mivaku-release/releases/download/v1.0.0/MivakuSetup_1.0.0.exe",
+  "changelog": "Initial release — SKU label printing for Ajio, Amazon, Myntra, FirstCry, Snapdeal",
+  "mandatory": false,
+  "minVersion": "1.0.0",
+  "sha256": ""
+}
