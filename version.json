@@ -1,10 +1,10 @@
 ﻿{
-    "size":  "~76 MB",
+    "size":  "~100 MB",
     "version":  "1.0.0",
     "mandatory":  false,
     "downloadUrl":  "https://github.com/mivaku/mivaku-release/releases/latest/download/MivakuSetup.exe",
     "releaseDate":  "August 2026",
     "minVersion":  "1.0.0",
     "changelog":  "Initial Release",
-    "sha256":  "fbc3929effdd755976073ded4601169ebf146b008895387f115f30993379f08a"
+    "sha256":  "b9862c573686586d638aafe3df0b4fd546a4ff63c185dff0a61ba80ab5faf28e"
 }
