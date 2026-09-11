@@ -1,10 +1,10 @@
 ﻿{
     "size":  "~100 MB",
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "mandatory":  false,
     "downloadUrl":  "https://github.com/mivaku/mivaku-release/releases/latest/download/MivakuSetup.exe",
     "releaseDate":  "August 2026",
-    "minVersion":  "1.0.1",
-    "changelog":  "Bugs Fixed: Stock Management",
+    "minVersion":  "1.0.2",
+    "changelog":  "v1.0.2 — Correct label PDF page order with master SortOrder-based sorting across all platforms, add Find Duplicate SKUs tool, bulk sort persistence, and UI stability fixes.",
     "sha256":  "b9862c573686586d638aafe3df0b4fd546a4ff63c185dff0a61ba80ab5faf28e"
 }
