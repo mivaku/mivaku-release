@@ -1,10 +1,10 @@
 ﻿{
     "size":  "~101 MB",
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "mandatory":  false,
     "downloadUrl":  "https://github.com/mivaku/mivaku-release/releases/latest/download/MivakuSetup.exe",
     "releaseDate":  "September 2026",
-    "minVersion":  "1.0.0",
-    "changelog":  "v1.0.4 — Fix auto-update failing at 100% download, and bulk stock import now applies the correct quantity from Excel.",
-    "sha256":  "37a2b667dd75ab67f759e8a8a5c86eff19f42efee22c4e98d1b8833c4cb3993a"
+    "minVersion":  "1.0.5",
+    "changelog":  "Smoother automatic updates, a more reliable installer that protects your data, and a fix for bulk stock imports.",
+    "sha256":  "b4cd3f6b297517acec3253afaecb06266c14bce61b5d17691c8163eb9b822a3b"
 }
