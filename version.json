@@ -1,10 +1,10 @@
 ﻿{
     "size":  "~101 MB",
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "mandatory":  false,
     "downloadUrl":  "https://github.com/mivaku/mivaku-release/releases/latest/download/MivakuSetup.exe",
     "releaseDate":  "September 2026",
-    "minVersion":  "1.0.5",
-    "changelog":  "Smoother automatic updates, a more reliable installer that protects your data, and a fix for bulk stock imports.",
-    "sha256":  "b4cd3f6b297517acec3253afaecb06266c14bce61b5d17691c8163eb9b822a3b"
+    "minVersion":  "1.0.6",
+    "changelog":  "Smarter stock alerts you can set per brand and platform, clearer order history that shows exactly how much stock was deducted, and safer deductions that never reduce stock below what you actually have. Inline quantity editing in Stock Items is now stable and no longer drops out while you type.",
+    "sha256":  "fb03860609ac97606710a9ac85f9f053da5db1f9b6cfd35475fbce6d06852c32"
 }
