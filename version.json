@@ -1,10 +1,10 @@
 ﻿{
     "size":  "~101 MB",
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "mandatory":  false,
     "downloadUrl":  "https://github.com/mivaku/mivaku-release/releases/latest/download/MivakuSetup.exe",
     "releaseDate":  "September 2026",
-    "minVersion":  "1.0.6",
-    "changelog":  "Smarter stock alerts you can set per brand and platform, clearer order history that shows exactly how much stock was deducted, and safer deductions that never reduce stock below what you actually have. Inline quantity editing in Stock Items is now stable and no longer drops out while you type.",
-    "sha256":  "b78b55db357768f030a87bebba86a01068f3a7fe82863c4d9ed046985b163bb3"
+    "minVersion":  "1.0.7",
+    "changelog":  "Stock deduction is now fast and responsive even on large orders: Apply and Deduct no longer freezes, shows live progress, and every button in the stock screens stays responsive. Deductions only apply when there is enough stock to fully cover an item, so you never go below what you actually have. Update handling is more reliable too: the app no longer reports you are up to date when it could not reach the server, the update banner now appears from a manual check, and the app restarts automatically after an update installs.",
+    "sha256":  "44875c8475ebfae8916431db3965c424208904a1b78a97696e89b29a2ae2e11d"
 }
