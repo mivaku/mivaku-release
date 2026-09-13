@@ -6,5 +6,5 @@
     "releaseDate":  "September 2026",
     "minVersion":  "1.0.6",
     "changelog":  "Smarter stock alerts you can set per brand and platform, clearer order history that shows exactly how much stock was deducted, and safer deductions that never reduce stock below what you actually have. Inline quantity editing in Stock Items is now stable and no longer drops out while you type.",
-    "sha256":  "fb03860609ac97606710a9ac85f9f053da5db1f9b6cfd35475fbce6d06852c32"
+    "sha256":  "b78b55db357768f030a87bebba86a01068f3a7fe82863c4d9ed046985b163bb3"
 }
