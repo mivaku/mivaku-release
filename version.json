@@ -1,10 +1,10 @@
 ﻿{
     "size":  "~101 MB",
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "mandatory":  false,
     "downloadUrl":  "https://github.com/mivaku/mivaku-release/releases/latest/download/MivakuSetup.exe",
     "releaseDate":  "September 2026",
-    "minVersion":  "1.0.7",
-    "changelog":  "Stock deduction is now fast and responsive even on large orders: Apply and Deduct no longer freezes, shows live progress, and every button in the stock screens stays responsive. Deductions only apply when there is enough stock to fully cover an item, so you never go below what you actually have. Update handling is more reliable too: the app no longer reports you are up to date when it could not reach the server, the update banner now appears from a manual check, and the app restarts automatically after an update installs.",
-    "sha256":  "44875c8475ebfae8916431db3965c424208904a1b78a97696e89b29a2ae2e11d"
+    "minVersion":  "1.0.8",
+    "changelog":  "Editing stock grids now feels like a spreadsheet. Press Enter to move down the same column and Tab to move to the next cell, and editing continues smoothly in the next editable cell. Inline quantity edits in Stock Items save instantly with a confirmation banner and no longer cause the grid to jump or lag. The first click on a cell now selects cleanly without flicker, and dropdown cells (such as Brand in the Add Missing Master screen) open ready for typing. Right-click any grid to auto-fit or fit columns to the window. Batch stock deduction is more reliable on large runs.",
+    "sha256":  "9728648d0a914a5103220dfd75da75bbab70338adc8ae34020454aca59bf4811"
 }
